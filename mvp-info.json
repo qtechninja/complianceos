@@ -1,0 +1,19 @@
+{
+  "name": "ComplianceOS",
+  "slug": "complianceos",
+  "created_at": "2026-09-24T07:39:47.852Z",
+  "stack": {
+    "frontend": "React + Vite + Tailwind CSS",
+    "backend": "Node.js + Express",
+    "database": "SQLite",
+    "testing": "Playwright",
+    "deployment": "Render"
+  },
+  "urls": {
+    "frontend_local": "http://localhost:5173",
+    "backend_local": "http://localhost:3001",
+    "frontend_prod": "https://complianceos-web.onrender.com",
+    "backend_prod": "https://complianceos-api.onrender.com"
+  },
+  "status": "scaffolded"
+}
